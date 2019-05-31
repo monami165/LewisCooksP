@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /Users/seongmincheon/LewisCooks/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/seongmincheon/LewisCooks/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sha512] /Users/seongmincheon/LewisCooks/node_modules/react-native-sha512/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/4e384b1900f43d6a727d3c41ec1747df/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19d942048b31d23d538d289f4e7e3688/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/337c24faab0c72c6e3fcfa7c068709ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a5309453c7295a619811d06fc6a52aef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/457eed001decedb5772ead26b9142e2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ea68f05e3c8d128cf520001a61c69e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/45b5862200dae7ede1b5e6c3c4c90d9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bc0d4ee7e92e2e3f0b0e09f62187c98e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/26a2f7bc6b4436d36b3e5d5d32fbc962/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9a2daa7c8d78352b85fcf5f41c462afb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb08cf27b0122479316b1cc43c2fecf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ce7ca7659ff3be3da70b4938fec255b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/088c3155e631127f421c32759c2312f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/462dfc81448d120ab78179b1008878c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cd2024dda4e2ea741c33ab101c88dfc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/65e44f9a2b85431d30f5e30f8c54551e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95b6c6bb87af2affe1fa4401ea7fcbd1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/89e0b40d1ea3aa513db500283ebb80b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c29a168652343a62aaa4a0609fb52b03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fd2b12321f12405e578929758e3f125a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fc9a0fb6efa173d4f89a7c4c2a9360db/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e5d1346a1546fcd6b16eff6f3f886267/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/52d871965a9da932bf4b3a18166ea21d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0ad42da4d1c84b5fb33786c7d7e92ff5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbffab17b60ebc4aeb475c38e9639e34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1eb998bb5107d45bda72e391d306ac5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/82e2a9dd3def843d77c2b3ee4db92d29/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e5c4a988478d5479ef17fb171d3c3bde/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a93fc129a972d949fc42f851eedeafd4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d7872b7d8c4e5732b7dc05e3f623d731/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0cd7636e7e2998c1c99fba39fc0a067a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0664dec4892539bfeb48592e50370bc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2152dd23a5d02b96aff51ce5247675b4/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/4e384b1900f43d6a727d3c41ec1747df/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/4e384b1900f43d6a727d3c41ec1747df/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/65e44f9a2b85431d30f5e30f8c54551e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/65e44f9a2b85431d30f5e30f8c54551e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0664dec4892539bfeb48592e50370bc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0664dec4892539bfeb48592e50370bc/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.lewiscooks.MainActivity
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:17:9-48
+	android:configChanges
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/seongmincheon/LewisCooks/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/seongmincheon/LewisCooks/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/seongmincheon/LewisCooks/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/seongmincheon/LewisCooks/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sha512] /Users/seongmincheon/LewisCooks/node_modules/react-native-sha512/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sha512] /Users/seongmincheon/LewisCooks/node_modules/react-native-sha512/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/4e384b1900f43d6a727d3c41ec1747df/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/4e384b1900f43d6a727d3c41ec1747df/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19d942048b31d23d538d289f4e7e3688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19d942048b31d23d538d289f4e7e3688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/337c24faab0c72c6e3fcfa7c068709ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/337c24faab0c72c6e3fcfa7c068709ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a5309453c7295a619811d06fc6a52aef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a5309453c7295a619811d06fc6a52aef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/457eed001decedb5772ead26b9142e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/457eed001decedb5772ead26b9142e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ea68f05e3c8d128cf520001a61c69e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4ea68f05e3c8d128cf520001a61c69e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/45b5862200dae7ede1b5e6c3c4c90d9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/45b5862200dae7ede1b5e6c3c4c90d9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bc0d4ee7e92e2e3f0b0e09f62187c98e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/bc0d4ee7e92e2e3f0b0e09f62187c98e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/26a2f7bc6b4436d36b3e5d5d32fbc962/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/26a2f7bc6b4436d36b3e5d5d32fbc962/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9a2daa7c8d78352b85fcf5f41c462afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9a2daa7c8d78352b85fcf5f41c462afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb08cf27b0122479316b1cc43c2fecf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb08cf27b0122479316b1cc43c2fecf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ce7ca7659ff3be3da70b4938fec255b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ce7ca7659ff3be3da70b4938fec255b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/088c3155e631127f421c32759c2312f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/088c3155e631127f421c32759c2312f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/462dfc81448d120ab78179b1008878c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/462dfc81448d120ab78179b1008878c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cd2024dda4e2ea741c33ab101c88dfc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cd2024dda4e2ea741c33ab101c88dfc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/65e44f9a2b85431d30f5e30f8c54551e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/65e44f9a2b85431d30f5e30f8c54551e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95b6c6bb87af2affe1fa4401ea7fcbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95b6c6bb87af2affe1fa4401ea7fcbd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/89e0b40d1ea3aa513db500283ebb80b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/89e0b40d1ea3aa513db500283ebb80b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c29a168652343a62aaa4a0609fb52b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c29a168652343a62aaa4a0609fb52b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fd2b12321f12405e578929758e3f125a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fd2b12321f12405e578929758e3f125a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fc9a0fb6efa173d4f89a7c4c2a9360db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fc9a0fb6efa173d4f89a7c4c2a9360db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e5d1346a1546fcd6b16eff6f3f886267/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e5d1346a1546fcd6b16eff6f3f886267/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/52d871965a9da932bf4b3a18166ea21d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/52d871965a9da932bf4b3a18166ea21d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0ad42da4d1c84b5fb33786c7d7e92ff5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0ad42da4d1c84b5fb33786c7d7e92ff5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbffab17b60ebc4aeb475c38e9639e34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbffab17b60ebc4aeb475c38e9639e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1eb998bb5107d45bda72e391d306ac5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1eb998bb5107d45bda72e391d306ac5e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/82e2a9dd3def843d77c2b3ee4db92d29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/82e2a9dd3def843d77c2b3ee4db92d29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e5c4a988478d5479ef17fb171d3c3bde/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e5c4a988478d5479ef17fb171d3c3bde/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a93fc129a972d949fc42f851eedeafd4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a93fc129a972d949fc42f851eedeafd4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d7872b7d8c4e5732b7dc05e3f623d731/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d7872b7d8c4e5732b7dc05e3f623d731/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0cd7636e7e2998c1c99fba39fc0a067a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0cd7636e7e2998c1c99fba39fc0a067a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0664dec4892539bfeb48592e50370bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a0664dec4892539bfeb48592e50370bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2152dd23a5d02b96aff51ce5247675b4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2152dd23a5d02b96aff51ce5247675b4/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/seongmincheon/LewisCooks/android/app/src/debug/AndroidManifest.xml:5:22-75
